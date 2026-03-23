@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(135deg, #e0e7ff, #f8fafc);
+}
+
+h1, h2, h3 {
+    color: #1e3a8a;
+}
+
+.stButton>button {
+    background-color: #2563eb;
+    color: white;
+    border-radius: 6px;
+    height: 40px;
+    border: none;
+}
+
+.stButton>button:hover {
+    background-color: #1d4ed8;
+}
+
+textarea, input {
+    border-radius: 6px !important;
+}
